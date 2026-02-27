@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../belonogovatest2/Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOf.csproj" Id="9c98507c-acf6-43d9-9b08-07ace5cb3b2a" />
+  <Project Path="belonogova1.csproj" Id="e9a13abe-8870-4b32-8de7-c79b7364573a" />
+</Solution>
